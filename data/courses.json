@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "name": "HTML5",
+    "time": "8.6 hours",
+    "access": "premium",
+    "price": 50,
+    "image": "",
+    "its_title": "Learn to think",
+    "its_paragraph": ""
+  },
+  {
+    "id": 1,
+    "name": "CSS3",
+    "time": "3 weeks",
+    "access": "premium",
+    "price": 250,
+    "image": "",
+    "its_title": "Get Inspired!",
+    "its_paragraph": ""
+  },
+  {
+    "id": 2,
+    "name": "Bootstrap5",
+    "time": "8 weeks",
+    "access": "premium",
+    "price": 199,
+    "image": "",
+    "its_title": "Hello, world!",
+    "its_paragraph": ""
+  },
+  {
+    "id": 3,
+    "name": "Tailwind",
+    "time": "1 month",
+    "access": "free",
+    "price": 0,
+    "image": "",
+    "its_title": "Online Test Prep, Done Right",
+    "its_paragraph": ""
+  },
+  {
+    "id": 4,
+    "name": "",
+    "time": "3 weeks",
+    "access": "free",
+    "price": 0,
+    "image": "",
+    "its_title": "4 Amazing Recommendation Letter Samples for Students",
+    "its_paragraph": ""
+  },
+  {
+    "id": 5,
+    "name": "JAVASCRIPT",
+    "time": "3 month",
+    "access": "Premium",
+    "price": 30,
+    "image": "",
+    "its_title": "The Scalar Learning Website",
+    "its_paragraph": ""
+  },
+  {
+    "id": 6,
+    "name": "React.JS",
+    "time": "6 months",
+    "access": "premium",
+    "price": 150,
+    "image": "",
+    "its_title": "Online Test Prep Courses Made Awesome",
+    "its_paragraph": ""
+  },
+  {
+    "id": 7,
+    "name": "Node.JS",
+    "time": "2 months",
+    "access": "premium",
+    "price": 550,
+    "image": "",
+    "its_title": "BEAT THE TOEFL® TEST",
+    "its_paragraph": ""
+  }
+]

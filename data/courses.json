@@ -3,11 +3,11 @@
     "id": 0,
     "name": "HTML5",
     "time": "8.6 hours",
-    "access": "premium",
-    "price": 50,
-    "image": "",
-    "its_title": "Learn to think",
-    "its_paragraph": ""
+    "access": "free",
+    "price": 0,
+    "image": "https://www.pluralsight.com/content/pluralsight/en/blog/creative-professional/wha/whats-difference-image-figure-tags-html5/_jcr_content/main/hero_blog_block/image-res.img.jpg/1527709348114.jpg",
+    "its_title": "Learn to basic",
+    "its_paragraph": "HTML5 is the next major revision of the HTML standard superseding HTML 4.01, XHTML 1.0, and XHTML 1.1. HTML5 is a standard for structuring and presenting content on the World Wide Web. HTML5 is a cooperation between the World Wide Web Consortium (W3C) and the Web Hypertext Application Technology Working Group (WHATWG)."
   },
   {
     "id": 1,
@@ -41,7 +41,7 @@
   },
   {
     "id": 4,
-    "name": "",
+    "name": "GithHub",
     "time": "3 weeks",
     "access": "free",
     "price": 0,

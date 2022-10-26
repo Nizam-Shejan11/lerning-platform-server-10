@@ -15,9 +15,9 @@
     "time": "3 weeks",
     "access": "premium",
     "price": 250,
-    "image": "",
-    "its_title": "Get Inspired!",
-    "its_paragraph": ""
+    "image": "https://pixelmechanics.com.sg/wp-content/uploads/2019/04/css.jpg",
+    "its_title": "Style your website!",
+    "its_paragraph": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML ..."
   },
   {
     "id": 2,
@@ -25,9 +25,9 @@
     "time": "8 weeks",
     "access": "premium",
     "price": 199,
-    "image": "",
-    "its_title": "Hello, world!",
-    "its_paragraph": ""
+    "image": "https://blog.templatetoaster.com/wp-content/uploads/2020/05/Bootstrap-5.jpg",
+    "its_title": "Styles more with it",
+    "its_paragraph": "Bootstrap 5 is the newest version of Bootstrap; with new components, faster stylesheet and more responsiveness. Bootstrap 5 supports the latest, stable releases of all major browsers and platforms. However, Internet Explorer 11 and down is not supported."
   },
   {
     "id": 3,
@@ -35,9 +35,9 @@
     "time": "1 month",
     "access": "free",
     "price": 0,
-    "image": "",
-    "its_title": "Online Test Prep, Done Right",
-    "its_paragraph": ""
+    "image": "https://laravelnews.imgix.net/images/tailwindcss-1633184775.jpg?ixlib=php-3.3.1",
+    "its_title": "Also Styles more with it",
+    "its_paragraph": "A utility-first CSS framework packed with classes like flex , pt-4 , text-center and rotate-90 that can be composed to build any design, directly in your markup ..."
   },
   {
     "id": 4,
@@ -45,9 +45,9 @@
     "time": "3 weeks",
     "access": "free",
     "price": 0,
-    "image": "",
-    "its_title": "4 Amazing Recommendation Letter Samples for Students",
-    "its_paragraph": ""
+    "image": "https://www.howtogeek.com/wp-content/uploads/2022/08/github_hero_2.jpg?height=200p&trim=2,2,2,2",
+    "its_title": "Deploy here your website",
+    "its_paragraph": "GitHub, Inc. (/ˈɡɪthʌb/), is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project."
   },
   {
     "id": 5,
@@ -55,9 +55,9 @@
     "time": "3 month",
     "access": "Premium",
     "price": 30,
-    "image": "",
-    "its_title": "The Scalar Learning Website",
-    "its_paragraph": ""
+    "image": "https://cyberhoot.com/wp-content/uploads/2020/07/Free-Courses-to-learn-JavaScript.jpg",
+    "its_title": " Hello, world!",
+    "its_paragraph": "What is JavaScript? JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well."
   },
   {
     "id": 6,
@@ -65,9 +65,9 @@
     "time": "6 months",
     "access": "premium",
     "price": 150,
-    "image": "",
-    "its_title": "Online Test Prep Courses Made Awesome",
-    "its_paragraph": ""
+    "image": "https://reactnative.dev/img/logo-og.png",
+    "its_title": "More useful for your JS skills",
+    "its_paragraph": "React is a JavaScript-based UI development library. Facebook and an open-source developer community run it. Although React is a library rather than a language, it is widely used in web development. The library first appeared in May 2013 and is now one of the most commonly used frontend libraries for web development."
   },
   {
     "id": 7,
@@ -75,8 +75,8 @@
     "time": "2 months",
     "access": "premium",
     "price": 550,
-    "image": "",
-    "its_title": "BEAT THE TOEFL® TEST",
-    "its_paragraph": ""
+    "image": "https://miro.medium.com/max/960/1*X7a7F-yXRUAGLGLzdlGQMA.png",
+    "its_title": "This the Way to start somethings new",
+    "its_paragraph": "Node. js (Node) is an open source development platform for executing JavaScript code server-side. Node is useful for developing applications that require a persistent connection from the browser to the server and is often used for real-time applications such as chat, news feeds and web push notifications."
   }
 ]
